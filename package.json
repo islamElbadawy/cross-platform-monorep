@@ -12,7 +12,11 @@
     "build:game-engine-lib": "ng build game-engine-lib --watch",
     "test:game-engine-lib": "ng test game-engine-lib",
     "lint:game-engine-lib": "ng lint game-engine-lib",
-    "e2e:game-engine-lib": "ng e2e game-engine-lib"
+    "e2e:game-engine-lib": "ng e2e game-engine-lib",
+    "build:my-lib": "ng build my-lib --watch",
+    "test:my-lib": "ng test my-lib",
+    "lint:my-lib": "ng lint my-lib",
+    "e2e:my-lib": "ng e2e my-lib"
   },
   "private": true,
   "dependencies": {
